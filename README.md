@@ -6,8 +6,8 @@
 The binary files for both Windows and Linux are located in `dist` folder.
 
 ## How to run
-- `git clone https://github.com/ultrasploit/numguess.git`
-- `cd numguess`
+- `git clone https://github.com/ultrasploit/revstring.git`
+- `cd revstring`
 - `cargo run`
 
 ## How to compile
